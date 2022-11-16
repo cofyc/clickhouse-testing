@@ -1,0 +1,3 @@
+#!/bin/bash
+
+CLICKHOUSE_VERSION=21.12.4.1
